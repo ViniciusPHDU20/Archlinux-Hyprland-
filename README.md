@@ -47,6 +47,25 @@ chmod +x hypr-git.sh
 
 ./hypr-git.sh
 ```
+## 📢 Capturas
+
+--------
+![rael001](https://github.com/user-attachments/assets/dfd0f3ff-89d6-4d75-a10a-95b110594cb3)
+
+-----
+![rael002](https://github.com/user-attachments/assets/a963e223-7f7d-4d35-bf88-05abac296b15)
+
+----------
+![rael003](https://github.com/user-attachments/assets/57f30fc7-01e5-457b-b568-73528d86511a)
+
+-----
+![rael004](https://github.com/user-attachments/assets/23415686-793b-4071-99d5-c42c4c783a1f)
+
+-------
+![rael005](https://github.com/user-attachments/assets/72ed5235-48e5-4639-abbb-9772d041cd8d)
+
+---------    
+
 ## Licença
 
 [GNU-GPL](https://github.com/rael2pac/Hyprland-arch/blob/main//LICENSE)
