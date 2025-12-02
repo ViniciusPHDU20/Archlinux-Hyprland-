@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1c6ba649-7445-4d66-bd33-bfb989de6587" /> width="650" />
+  <img src="[https://github.com/user-attachments/assets/1c6ba649-7445-4d66-bd33-bfb989de6587](https://watchandchill.gr/wp-content/uploads/2021/03/rickandmorty.jpg)" /> width="650" />
 </p>  
   &nbsp  
 
